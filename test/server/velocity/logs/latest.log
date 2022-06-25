@@ -1,0 +1,15 @@
+[18:23:17] [main/INFO]: Booting up Velocity 3.1.2-SNAPSHOT (git-377e6b66-b140)...
+[18:23:17] [main/INFO]: Loading localizations...
+[18:23:17] [main/INFO]: Connections will use NIO channels, Java compression, Java ciphers
+[18:23:17] [main/WARN]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
+[18:23:17] [main/INFO]: Loading plugins...
+[18:23:17] [main/INFO]: Loaded 0 plugins
+[18:23:18] [Netty NIO Boss #0/INFO]: Listening on /[0:0:0:0:0:0:0:0]:25577
+[18:23:18] [main/INFO]: Velocity and some of its plugins collect metrics and send them to bStats (https://bStats.org).
+[18:23:18] [main/INFO]: bStats collects some basic information for plugin authors, like how many people use
+[18:23:18] [main/INFO]: their plugin and their total player count. It's recommended to keep bStats enabled, but
+[18:23:18] [main/INFO]: if you're not comfortable with this, you can opt-out by editing the config.txt file in
+[18:23:18] [main/INFO]: the '/plugins/bStats/' folder and setting enabled to false.
+[18:23:18] [main/INFO]: Done (1.7s)!
+[18:23:21] [Shutdown thread/INFO]: Shutting down the proxy...
+[18:23:21] [Shutdown thread/INFO]: Closing endpoint /0.0.0.0:25577
